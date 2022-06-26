@@ -12,30 +12,42 @@
 				margin: 0;
 				font-family: "Lucida Console", monospace;
 			}
-
-			.container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
-
-			a { color: #4183c4; text-decoration: none; }
-			a:hover { text-decoration: underline; }
-
-			h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
-			p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
-
+			.container {
+				display: flex;
+				flex-direction: column;
+				flex-wrap: wrap;
+				justify-content: center;
+				align-content: center;
+				margin: 50px auto 40px auto;
+				max-width: 600px;
+				padding: 2rem;
+			}
+			a {
+				color: #708090;
+				text-decoration: none; }
+			a:hover {
+				text-decoration: underline;
+			}
+			h1 {
+				font-size: 60px;
+				font-weight: 100;
+			p {
+				color: rgba(0, 0, 0, 0.5);
+				margin: 20px 0;
+				line-height: 1.6;
+			}
 		</style>
 	</head>
 	<body>
-
 		<div class="container">
-
+			<center>
 			<h1>Oops!</h1>
 			<p><strong>File not found</strong></p>
-
 			<p>If you are not redirected in five seconds, <a href="https://rafaelmikayelyan.github.io/">click here</a>.</p>
 			<a href="https://rafaelmikayelyan.github.io/">
 				<img width="32" height="32" src="logo192.png">
 			</a>
+			</center>
 		</div>
-
-
 	</body>
 </html>
