@@ -2,7 +2,7 @@
 
 ## UNDER DEVELOPMENT
 
-### Technology used:
+### Tech Stack
 - HTML, CSS, JS
 - React, React Router
 - GH Pages
