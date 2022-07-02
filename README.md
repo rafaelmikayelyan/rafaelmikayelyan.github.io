@@ -5,7 +5,7 @@
 ### Tech Stack
 - HTML, CSS, JS
 - React, React Router
-- GH Pages
+- [gh-pages (npm)](https://www.npmjs.com/package/gh-pages)
 
 
 
