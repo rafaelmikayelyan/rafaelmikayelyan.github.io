@@ -1,3 +1,1 @@
 # [Personal website](https://rafaelmikayelyan.github.io)
-
-Just contact links for now...
