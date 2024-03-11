@@ -1,3 +1,3 @@
-# [Personal Portfolio (React)](https://rafaelmikayelyan.github.io)
+# [Personal website](https://rafaelmikayelyan.github.io)
 
-#### - UNDER (ACTIVE) DEVELOPMENT -
+Just contact links for now...
